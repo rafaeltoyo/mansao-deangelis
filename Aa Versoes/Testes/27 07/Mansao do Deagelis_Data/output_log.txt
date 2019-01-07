@@ -1,0 +1,29 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 23.20.15015.1002]
+    Renderer: AMD Radeon (TM) R7 370 Series
+    Vendor:   ATI
+    VRAM:     2028 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Biblioteca\Documentos\Arquivos de Programação\Unity\Jogo Portugues Final\Aa Versoes\Testes\27 07\Mansao do Deagelis_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Biblioteca\Documentos\Arquivos de Programação\Unity\Jogo Portugues Final\Aa Versoes\Testes\27 07\Mansao do Deagelis_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Biblioteca\Documentos\Arquivos de Programação\Unity\Jogo Portugues Final\Aa Versoes\Testes\27 07\Mansao do Deagelis_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Biblioteca\Documentos\Arquivos de Programação\Unity\Jogo Portugues Final\Aa Versoes\Testes\27 07\Mansao do Deagelis_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.158 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.563881 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 199.
+Total: 2.022737 ms (FindLiveObjects: 0.029013 ms CreateObjectMapping: 0.023893 ms MarkObjects: 0.464895 ms  DeleteObjects: 0.023210 ms)
+
+UnloadTime: 0.539646 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 1.987238 ms (FindLiveObjects: 0.036181 ms CreateObjectMapping: 0.025941 ms MarkObjects: 0.502100 ms  DeleteObjects: 0.008874 ms)
+
